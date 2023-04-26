@@ -1,7 +1,7 @@
 # Python-games
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5aa4b56c2864dafa9c851ac79c62df5)](https://app.codacy.com/gh/malcolmolatunj/python-games?utm_source=github.com&utm_medium=referral&utm_content=malcolmolatunj/python-games&utm_campaign=Badge_Grade)
 
 Games created in Python, intended to run in the terminal.
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a5aa4b56c2864dafa9c851ac79c62df5)](https://app.codacy.com/gh/malcolmolatunj/python-games?utm_source=github.com&utm_medium=referral&utm_content=malcolmolatunj/python-games&utm_campaign=Badge_Grade)
 
 ## Installation
 
